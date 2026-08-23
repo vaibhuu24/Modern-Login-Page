@@ -15,3 +15,10 @@ A modern, responsive Login and Registration UI built using HTML, CSS, and JavaSc
 🎨 Modern gradient-based UI
 ⚡ Interactive buttons and hover effects
 🚫 Form submission without page reload
+
+🛠️ Technologies Used
+HTML5 – Page structure
+CSS3 – Styling, animations, and responsive design
+JavaScript – Form validation and user interactions
+Font Awesome – Social media and interface icons
+Google Fonts – Montserrat typography
