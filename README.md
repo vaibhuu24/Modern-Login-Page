@@ -58,15 +58,32 @@ Interactive UI components
 📸 Preview
 Login Page
 
+Screenshot of the Login Page
+Signup Page
+
 <img width="684" height="527" alt="image" src="https://github.com/user-attachments/assets/14f7c731-eb7f-41d9-80f4-bba562f520ce" />
+Screenshot of the Signup Page
 <img width="712" height="553" alt="image" src="https://github.com/user-attachments/assets/786220b2-d232-4258-9c5b-45d0d08b4bc8" />
 
 
 
 
-Screenshot of the Login Page
-Signup Page
+👨‍💻 Author
 
-Add your project screenshot here.
+Vaibhav Amrut Desale
 
-Screenshot of the Signup Page
+MCA Student | Frontend Developer
+
+Skills Demonstrated
+
+HTML CSS JavaScript Bootstrap Git GitHub
+
+⭐ Support
+
+If you find this project useful, consider giving the repository a ⭐ on GitHub.
+
+Made with ❤️ using HTML, CSS & JavaScript
+
+
+
+
