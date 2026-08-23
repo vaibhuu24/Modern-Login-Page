@@ -42,3 +42,27 @@ Open the project folder in VS Code.
 Open index.html in your browser.
 
 For the best development experience, you can use the Live Server extension in VS Code.
+
+🎯 Project Highlights
+
+This project demonstrates practical frontend development skills, including:
+
+HTML form creation
+CSS Flexbox
+CSS transitions and animations
+Responsive web design
+DOM manipulation
+JavaScript event handling
+Form validation
+Interactive UI components
+📸 Preview
+Login Page
+
+Add your project screenshot here.
+
+Screenshot of the Login Page
+Signup Page
+
+Add your project screenshot here.
+
+Screenshot of the Signup Page
