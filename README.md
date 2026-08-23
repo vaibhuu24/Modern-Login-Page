@@ -22,3 +22,23 @@ CSS3 – Styling, animations, and responsive design
 JavaScript – Form validation and user interactions
 Font Awesome – Social media and interface icons
 Google Fonts – Montserrat typography
+
+📂 Project Structure
+Modern-Login-Page/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/your-username/Modern-Login-Page.git
+2. Open the project
+
+Open the project folder in VS Code.
+
+3. Run the project
+
+Open index.html in your browser.
+
+For the best development experience, you can use the Live Server extension in VS Code.
