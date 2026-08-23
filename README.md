@@ -58,7 +58,11 @@ Interactive UI components
 📸 Preview
 Login Page
 
-Add your project screenshot here.
+<img width="684" height="527" alt="image" src="https://github.com/user-attachments/assets/14f7c731-eb7f-41d9-80f4-bba562f520ce" />
+<img width="712" height="553" alt="image" src="https://github.com/user-attachments/assets/786220b2-d232-4258-9c5b-45d0d08b4bc8" />
+
+
+
 
 Screenshot of the Login Page
 Signup Page
